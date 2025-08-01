@@ -1,6 +1,11 @@
 /**
  *
  *
+   https://xrpJungle.com
+   https://x.com/xrpJungle
+   https://t.me/xrpJungle
+
+
    Contract features:
    100,000,000 tokens
    3% buy tax in ETH sent to community, marketing & developer
