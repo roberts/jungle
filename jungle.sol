@@ -1227,7 +1227,7 @@ contract XRPJungle is ERC20, Ownable {
             developerLopsidedSellTax;
 
         communityWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Community Funds
-        marketingWallet = address(0xC6aa2f0FF6b8563EA418ec2558890D6027413699); // Marketing Funds
+        marketingWallet = address(0x188AE4AA62422E3A6D70Edf273fE7e209A58593f); // Marketing Funds
         developerWallet = address(0xDEB333a3240eb2e1cA45D38654c26a8C1AAd0507); // Developer Funds
 
         _mint(address(this), totalSupply);
